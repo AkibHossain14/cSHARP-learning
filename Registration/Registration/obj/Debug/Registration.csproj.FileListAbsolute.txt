@@ -1,0 +1,13 @@
+D:\akib\project\Registration\Registration\bin\Debug\Registration.exe.config
+D:\akib\project\Registration\Registration\bin\Debug\Registration.exe
+D:\akib\project\Registration\Registration\bin\Debug\Registration.pdb
+D:\akib\project\Registration\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+D:\akib\project\Registration\Registration\obj\Debug\Registration.Form1.resources
+D:\akib\project\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+D:\akib\project\Registration\Registration\obj\Debug\Registration.signUP.resources
+D:\akib\project\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+D:\akib\project\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+D:\akib\project\Registration\Registration\obj\Debug\Registration.exe
+D:\akib\project\Registration\Registration\obj\Debug\Registration.pdb
+D:\akib\project\Registration\Registration\obj\Debug\Registration.exe.config
+D:\akib\project\Registration\Registration\obj\Debug\Registration.Form3.resources
